@@ -1,7 +1,7 @@
 Zorladı ama güzeldi.Baka baka göre göre bir şeyler yaptık ama css öğrenip baştan yapacağım.
 
 ![Screenshot 2022-10-29 122643](https://user-images.githubusercontent.com/115823740/198824363-8cd40583-7f51-454d-bc6a-75c13ba0b397.png)
-
+```
 <!DOCTYPE html>
 <html lang="tr">
 <head>
@@ -67,5 +67,5 @@ Zorladı ama güzeldi.Baka baka göre göre bir şeyler yaptık ama css öğreni
 
 </body>
 </html>
-
+```
 
